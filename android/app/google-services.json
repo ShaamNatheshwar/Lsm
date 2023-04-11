@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19161837949",
+    "project_id": "pallizelsm",
+    "storage_bucket": "pallizelsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19161837949:android:10b740c0c61528e139dc14",
+        "android_client_info": {
+          "package_name": "com.example.pallize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19161837949-q3hoal48o4s45a76ev9ge6ge4prl0bug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6YJ4sdAKUBJfZ8M4YX-gFfsw44_k4vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19161837949-lr7f4eiohdm4d9kbu1k3kt7lp8tu4ptf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
